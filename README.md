@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TravisH18
+- 👀 I’m interested in machine, and deep learning, as well as artificial intelligence 
+- 🌱 I’m currently working towards a B.S. in Computer Science with an applied focus on Artificial Intelligence
+- 📫 Reach out to me via email travish1842@gmail.com or hudsontr@oregonstate.edu
